@@ -1,0 +1,35 @@
+===== Africa West Information =====
+
+Africa West Control is one of VATSSA's three Flight Service Stations that operate at FL245 and above when Local ATC is not available.
+
+
+==== Airport Coverage ====
+
+Africa West covers the the following destinations:
+
+=== DGAC Accra ===
+{{page>country:ghana:airports#Ghana Airports}}
+=== DNKK Kano ===
+{{page>country:nigeria:airports#Nigeria Airports}}
+=== FCCC Brazzaville ===
+{{page>country:cameroon:airports#Cameroon Airports}}
+{{page>country:car:airports#Central African Republic Airports}}
+{{page>country:congo:airports#Republic of Congo Airports}}
+{{page>country:equatorial-guinea:airports#Equatorial Guinea Airports}}
+{{page>country:gabon:airports#Gabon Airports}}
+{{page>country:sao-tome:airports#São Tomé & Principe Airports}}
+=== GLRB Roberts ===
+{{page>country:guinea:airports#Guinea Airports}}
+{{page>country:liberia:airports#Liberia Airports}}
+{{page>country:sierra-leone:airports#Sierra Leone Airports}}
+=== GOOO Dakar ===
+{{page>country:guinea-bissau:airports#Guinea Bissau Airports}}
+{{page>country:ivory-coast:airports#Ivory Coast Airports}}
+{{page>country:mali:airports#Mali Airports}}
+{{page>country:mauritania:airports#Mauritania Airports}}
+{{page>country:senegal:airports#Senegal Airports}}
+=== GVSC Sal ===
+{{page>country:cape-verde:airports#Cape Verde Airports}}
+
+
+{{page>fss-footer#AFRW}}

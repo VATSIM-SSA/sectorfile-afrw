@@ -1,0 +1,19 @@
+===== Africa West Sectors =====
+
+ * The Africa Central airspace is divided into the following sectors:
+
+==== DIII Abidjan ====
+{{page>airspace:gooo:sectors#Abidjan}}
+==== DNKK Kano ====
+{{page>airspace:dnkk:sectors#Kano Sector East}}
+{{page>airspace:dnkk:sectors#Kano Sector West}}
+{{page>airspace:dnkk:sectors#Lagos ACC}}
+==== GAAA Bamako ====
+{{page>airspace:gooo:sectors#Bamako}}
+==== GOOO Dakar ====
+{{page>airspace:gooo:sectors#Dakar}}
+==== GQQQ Nouakchott ====
+{{page>airspace:gooo:sectors#Nouakchott}}
+
+
+{{page>fss-footer#AFRW}}
